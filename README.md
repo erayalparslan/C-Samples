@@ -1,3 +1,5 @@
 # Sample C++ Programs
 
-Try & compile & Run!
+Basic C++ Programming, Data Structures and Algorithms
+
+
